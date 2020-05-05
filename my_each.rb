@@ -7,4 +7,4 @@ def my_each(collection) # put argument(s) here
     
 end
 
-
+my_each {puts item}
